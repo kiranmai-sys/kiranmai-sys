@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **Third-year B.Tech Cyber Security student** passionate about:
+🎓 **Fourth-year B.Tech Cyber Security student** passionate about:
 - 🔐 Securing systems & networks
 - 🕵️‍♂️ Digital forensics & incident response  
 - 🌐 Detection of web-based attacks
